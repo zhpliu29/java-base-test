@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="design-mode" />
+        <module name="mysql-performance" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="design-mode" target="1.5" />
       <module name="java-base-test" target="1.5" />
+      <module name="mysql-performance" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

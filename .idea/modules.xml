@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/design-mode/design-mode.iml" filepath="$PROJECT_DIR$/design-mode/design-mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-base-test.iml" filepath="$PROJECT_DIR$/java-base-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-performance/mysql-performance.iml" filepath="$PROJECT_DIR$/mysql-performance/mysql-performance.iml" />
     </modules>
   </component>
 </project>

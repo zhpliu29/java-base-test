@@ -2,38 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2958d3bb-5e9e-4772-9b4d-99dc9619e056" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/Approver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/Congress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/Director.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/President.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/PurchaseRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/VicePresident.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/before/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/before/PurchaseRequestHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a21responsibilitychain/note" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/CurrentAccount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/SavingAccount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/before/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/before/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/note" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a23strategy/MovieTicket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a23strategy/before/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a23strategy/before/MovieTicket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-mode/src/main/java/a23strategy/note" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-performance/mysql-performance.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-performance/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-performance/src/main/java/MySQL架构" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-performance/src/main/java/数据类型优化" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/BinarySearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/QuickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/ScoreOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/b1/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/b1/OperationAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/b2/OperationAdapter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a11adapter/b2/OperationAdapter3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/AbstractFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/Folder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/ImageFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/TextFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/before/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/before/Folder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/before/ImageFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a13composite/before/TextFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/BlackBorderDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/Component.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/ComponentDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/ScrollBarDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/TextBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a14decorator/Window.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/Client1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/Client2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/EncryptFacade.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/before/CipherMachine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/before/Client1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/before/Client2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/before/FileReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a15facade/before/FileWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/AccessValidate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/RealSearcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/Searcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/b1staticproxy/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/b1staticproxy/ProxySearcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/b2dynamicproxy/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a16proxy/b2dynamicproxy/LoggerHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a1singleton/EagerSingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a1singleton/LazySingleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a1singleton/Singleton$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a1singleton/Singleton$HolderClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a1singleton/Singleton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/Approver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/Congress.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/Director.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/President.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/PurchaseRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/VicePresident.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/before/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a21responsibilitychain/before/PurchaseRequestHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a22templatemethod/Account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a22templatemethod/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a22templatemethod/CurrentAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a22templatemethod/SavingAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a22templatemethod/before/Account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a22templatemethod/before/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/ChildernDiscount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/Discount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/MovieTicket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/StudentDiscount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/VIPDiscount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/before/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a23strategy/before/MovieTicket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/Account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/AccountState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/NormalState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/OverdraftState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/RestrictedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a24state/before/Account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a25observer/AllyControlCenter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a25observer/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a25observer/ConcreteAllyControlCenter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a25observer/Observer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a25observer/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/Chart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/ChartFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/HistogramChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/LineChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/PieChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/before/Chart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a2simplefactory/before/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/DatabaseLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/DtabaseLoggerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/FileLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/FileLoggerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/LoggerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/b1重载的工厂方法/DtabaseLoggerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/b1重载的工厂方法/LoggerFactory2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a3factorymethod/b2工厂方法隐藏/LoggerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/Button.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/ComboBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SkinFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SpringButton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SpringComboBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SpringSkinFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SpringTextField.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SummerButton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SummerComboBox.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SummerSkinFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/SummerTextField.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-mode/target/classes/a4abstractfactory/TextField.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-mode/src/main/java/note" afterPath="$PROJECT_DIR$/design-mode/src/main/java/note" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/design-mode/target/" />
+    <ignored path="$PROJECT_DIR$/mysql-performance/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
@@ -42,65 +152,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="note" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a24state/note">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="note" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/note">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a24state/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-              <folding>
-                <element signature="e#1016#1017#0" expanded="true" />
-                <element signature="e#1054#1055#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1169#1170#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
-                <element signature="e#1235#1236#0" expanded="true" />
-                <element signature="e#1263#1264#0" expanded="true" />
-                <element signature="e#1305#1306#0" expanded="true" />
-                <element signature="e#1339#1340#0" expanded="true" />
-                <element signature="e#1373#1374#0" expanded="true" />
-                <element signature="e#1403#1404#0" expanded="true" />
-                <element signature="e#1449#1450#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="note" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/note">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="9" />
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/Observer.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql-performance/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySQL架构" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql-performance/src/main/java/MySQL架构">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="50" column="17" lean-forward="false" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="数据类型优化" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysql-performance/src/main/java/数据类型优化">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -109,7 +204,7 @@
       <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="440">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#145#146#0" expanded="true" />
@@ -131,7 +226,6 @@
             <state relative-caret-position="264">
               <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
-                <element signature="e#202#212#0" expanded="true" />
                 <element signature="e#262#263#0" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
@@ -165,7 +259,7 @@
         <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a24state/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -181,6 +275,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>悲观</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -192,9 +291,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design-mode/src/main/java/a16proxy/ProxySearcher.java" />
-        <option value="$PROJECT_DIR$/design-mode/src/main/java/a16proxy/Client.java" />
-        <option value="$PROJECT_DIR$/design-mode/src/main/java/a16proxy/Logger.java" />
         <option value="$PROJECT_DIR$/design-mode/src/main/java/a16proxy/AccessValidate.java" />
         <option value="$PROJECT_DIR$/design-mode/src/main/java/a16proxy/b1staticproxy/ProxySearcher.java" />
         <option value="$PROJECT_DIR$/design-mode/src/main/java/a16proxy/b2dynamicproxy/SearchHandler.java" />
@@ -243,6 +339,9 @@
         <option value="$PROJECT_DIR$/design-mode/src/main/java/a25observer/ConcreteAllyControlCenter.java" />
         <option value="$PROJECT_DIR$/design-mode/src/main/java/a25observer/AllyControlCenter.java" />
         <option value="$PROJECT_DIR$/design-mode/src/main/java/note" />
+        <option value="$PROJECT_DIR$/mysql-performance/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql-performance/src/main/java/first" />
+        <option value="$PROJECT_DIR$/mysql-performance/src/main/java/数据类型优化" />
       </list>
     </option>
   </component>
@@ -281,9 +380,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="469" />
+    <option name="y" value="49" />
     <option name="width" value="1207" />
     <option name="height" value="1047" />
   </component>
@@ -305,7 +404,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,20 +421,25 @@
             <path>
               <item name="java-base-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-base-test" type="462c0819:PsiDirectoryNode" />
-              <item name="design-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql-performance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-base-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-base-test" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql-performance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-base-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-base-test" type="462c0819:PsiDirectoryNode" />
-              <item name="design-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql-performance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-base-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-base-test" type="462c0819:PsiDirectoryNode" />
-              <item name="design-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql-performance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -343,9 +448,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,6 +461,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -596,32 +701,34 @@
       <workItem from="1565415434164" duration="8095000" />
       <workItem from="1565425400387" duration="131000" />
       <workItem from="1565606786568" duration="13537000" />
+      <workItem from="1565704090621" duration="23000" />
+      <workItem from="1565785433412" duration="204000" />
+      <workItem from="1565786782549" duration="8580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25666000" />
+    <option name="totallyTimeSpent" value="34473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="469" y="49" width="1207" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47742665" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5492458" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5013078" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12625699" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25698325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1738149" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28509155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24934612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -633,6 +740,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,28 +775,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/jdk/JDK1.8/jdk1.8.0_172/src.zip!/java/lang/reflect/Proxy.java" />
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a16proxy/AccessValidate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a16proxy/RealSearcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a12bridge/note">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -722,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,10 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="9" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#128#129#0" expanded="false" />
-            <element signature="e#158#159#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,10 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="9" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#128#129#0" expanded="false" />
-            <element signature="e#158#159#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -752,10 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="9" column="5" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#131#132#0" expanded="false" />
-            <element signature="e#161#162#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,10 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#139#140#0" expanded="false" />
-            <element signature="e#169#170#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,12 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#133#134#0" expanded="false" />
-            <element signature="e#165#166#0" expanded="false" />
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#226#227#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -787,10 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#249#250#0" expanded="false" />
-            <element signature="e#291#292#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,23 +864,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/before.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/before.java" />
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a22templatemethod/before/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,10 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#125#126#0" expanded="false" />
-            <element signature="e#172#173#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,10 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#124#125#0" expanded="false" />
-            <element signature="e#171#172#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,7 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,32 +914,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a23strategy/AbstractStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a23strategy/AbstractStrategy.java" />
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a23strategy/Discount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,7 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="33" column="45" lean-forward="false" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,7 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -949,14 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#307#308#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-            <element signature="e#384#385#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#495#496#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -964,7 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,7 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,7 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="43" column="9" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="43" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -988,14 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1003,12 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,14 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1031,15 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a24state/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,23 +1026,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a24state/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="704">
           <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           <folding>
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#1054#1055#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1169#1170#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-            <element signature="e#1263#1264#0" expanded="true" />
-            <element signature="e#1305#1306#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1449#1450#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
+            <element signature="e#1093#1094#0" expanded="false" />
+            <element signature="e#1121#1122#0" expanded="false" />
+            <element signature="e#1169#1170#0" expanded="false" />
+            <element signature="e#1203#1204#0" expanded="false" />
+            <element signature="e#1235#1236#0" expanded="false" />
+            <element signature="e#1263#1264#0" expanded="false" />
+            <element signature="e#1305#1306#0" expanded="false" />
+            <element signature="e#1339#1340#0" expanded="false" />
+            <element signature="e#1373#1374#0" expanded="false" />
+            <element signature="e#1403#1404#0" expanded="false" />
+            <element signature="e#1449#1450#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1085,14 +1058,14 @@
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="440">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#145#146#0" expanded="true" />
@@ -1107,11 +1080,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/Client.java">
+    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/AllyControlCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="264">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,24 +1101,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/AllyControlCenter.java">
+    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a25observer/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#202#212#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/a24state/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design-mode/src/main/java/note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="220">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-performance/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-performance/src/main/java/MySQL架构">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="17" lean-forward="false" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-performance/src/main/java/数据类型优化">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding />
         </state>
       </provider>
